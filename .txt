@@ -1,0 +1,47 @@
+1)	 crear un programa que con el ingreso de una matriz n* n muestre las siguientes opciones 
+
+1: método pila con la suma de las filas de la matriz
+
+2:  método cola con la suma de las columnas de la matriz 
+
+3: método donde muestre la factorial de la dimensión de la matriz 
+4: método cola donde muestre los números ordenados de mayor a menor de la cola 
+
+2)	diseñar un método «invertir» que reciba una cadena de caracteres como parámetro. Esta función deberá mostrar la cadena del revés. Se debe contar los caracteres de la cadena Debes resolver el problema usando pila   
+
+
+3)	crear un programa que de una pila de n elementos valide y ejecute lo siguiente:   
+
+1-	validar si el número es negativo reemplazarlo por 0
+2-	si el numero esta entre 8 y 20 debe reemplazar por 50
+3-	si el número es mayor que 60 y menor que 62 se debe reemplazar por 100
+4-	calcular la raíz cuadrada de cada elemento
+
+
+4)	crear un programa que de una pila identifique un carácter o número que lo identifique en la pila y lo muestre 
+1: si la pila no está vacía y no se encontró el carácter debe volver a realizar el proceso 
+2: si la pila esta vacía debe volver al proceso de llenado para garantizar la búsqueda
+3: cuando se encuentre el valor indicado debe mostrar en qué posición de la pila se encontraba y terminar el proceso 
+5)	cree un programa que reciba un vector, y que en una pila muestre la factorial de cada numero
+
+6)	cree un programa que reciba una matriz n*m que en una pila guarde lo siguiente 
+
+1: la suma de todas las filas y muestre el promedio de las filas, resultado en una pila 
+2: la suma de las columnas y muestre la raíz cuadrada de cada elemento
+3: la multiplicación de matriz a * matriz b y que la muestre en una pila 
+
+7)	cree un programa que del ingreso de una pila de n números haga lo siguiente 
+1: si el número es negativo calcule su cubo 
+2: informe la cantidad de números comprendidos entre 20 y 80
+3: informe la cantidad de números que fueron positivos 
+4: informe la suma de los números comprendidos entre 80 y 200
+
+
+8)	cree un programa que tome números aleatoriamente y que calcule la serie Fibonacci  1: ordene de manera ascendente la pila
+2: que busque uno de los registros y lo elimine 
+3: se debe mostrar la pila ordenada después de eliminar 
+
+9)	cree un programa que tome números aleatoriamente y que calcule la factorial y ordene de manera ascendente la pila 
+1: ordene de manera descendiente la pila
+2: que busque uno de los registros y lo elimine 
+3: se debe mostrar la pila ordenada después de eliminar 
